@@ -10,8 +10,7 @@ Anime Vault is a server-side application build using Server Actions, infinite sc
 - Infinite scrolling
 - Framer Motion animations
 
- Learn from:
-  ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+ 
 
 ## Installation
 
